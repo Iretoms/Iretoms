@@ -1,5 +1,5 @@
 <div id='header' align='center'>
-  <img src='https://media4.giphy.com/media/McUYHXzUDfWLIHiBhN/giphy.gif?cid=790b76112cbcb1fa6d514b718edc5e3d1cf6cc9357080429&rid=giphy.gif&ct=g'/>
+  <img src='/goku.gif'/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Iretomiwa Kehinde-Abajo</h1>
