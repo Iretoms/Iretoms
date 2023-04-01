@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Iretomiwa Kehinde-Abajo</h1>
 <h3 align="center">A self-taught Frontend developer from Nigeria</h3>
 
--  My Porfolio website is still on it's way
+-  <a href="https://iretomiwa.netlify.app" target="_blank">Portfolio Website</a>
 - 📫 How to reach me **iretomiwajonathan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/IRE_TOMS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IRE_TOMS" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iretomiwa-kehinde-abajo-46898a197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Iretomiwa" height="30" width="40" /></a>
+<a href="https://twitter.com/IRE_TOMS" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IRE_TOMS" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iretomiwa-kehinde-abajo-46898a197" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Iretomiwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
