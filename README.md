@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iretomiwa Kehinde-Abajo</h1>
-<h3 align="center">A self-taught Frontend developer from Nigeria</h3>
+<h3 align="center">A Software Developer</h3>
 
 - <a href="https://iretomiwa.netlify.app" target="_blank">Portfolio Website</a>
 - 📫 How to reach me **iretomiwajonathan@gmail.com**
